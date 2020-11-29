@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Script is working now, check it here https://vk.com/yaroslavmiroshnikov
 # Deploy on Heroku.com, free plan
 
 import vk_api
